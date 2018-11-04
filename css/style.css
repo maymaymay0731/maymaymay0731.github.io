@@ -1,0 +1,9 @@
+.custom-primary-color{
+	color:grey;
+}
+.custom-primary-color:hover {
+	color:black;
+}
+body{
+	font-family: 'Poor Story', cursive;
+}
